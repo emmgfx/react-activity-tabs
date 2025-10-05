@@ -1,0 +1,42 @@
+{
+  "name": "react-activity-tabs",
+  "version": "0.0.0",
+  "description": "Tabs component using react activities",
+  "keywords": [
+    "react",
+    "activity",
+    "tabs"
+  ],
+  "homepage": "https://github.com/emmgfx/react-activity-tabs#readme",
+  "bugs": {
+    "url": "https://github.com/emmgfx/react-activity-tabs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmgfx/react-activity-tabs.git"
+  },
+  "license": "MIT",
+  "author": "Josep Viciana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.27.1",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.6",
+    "@rollup/plugin-node-resolve": "^16.0.2",
+    "@rollup/plugin-terser": "^0.4.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^10.0.0",
+    "react": "*",
+    "react-dom": "*",
+    "rollup": "^4.52.4",
+    "rollup-plugin-peer-deps-external": "^2.2.4"
+  },
+  "peerDependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
