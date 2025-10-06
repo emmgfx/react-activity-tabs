@@ -1,6 +1,6 @@
 {
   "name": "react-activity-tabs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tabs component using react activities",
   "keywords": [
     "react",
@@ -17,6 +17,7 @@
   },
   "license": "MIT",
   "author": "Josep Viciana",
+  "type": "module",
   "main": "dist/index.js",
   "exports": {
     ".": {
