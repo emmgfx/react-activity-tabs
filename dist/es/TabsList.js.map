@@ -1,0 +1,1 @@
+{"version":3,"file":"TabsList.js","sources":["../../src/TabsList.jsx"],"sourcesContent":["export const TabsList = ({ className, children }) => {\n  return <div className={className}>{children}</div>;\n};\n"],"names":["TabsList","className","children","_jsx"],"mappings":"wCAAO,MAAMA,EAAWA,EAAGC,YAAWC,cAC7BC,EAAA,MAAA,CAAKF,UAAWA,EAAUC,SAAEA"}

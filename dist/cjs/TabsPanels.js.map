@@ -1,0 +1,1 @@
+{"version":3,"file":"TabsPanels.js","sources":["../../src/TabsPanels.jsx"],"sourcesContent":["export const TabsPanels = ({ className, children }) => {\n  return <div className={className}>{children}</div>;\n};\n"],"names":["TabsPanels","className","children","_jsx"],"mappings":"mEAA0BA,EAAGC,YAAWC,cAC/BC,EAAAA,IAAA,MAAA,CAAKF,UAAWA,EAAUC,SAAEA"}
