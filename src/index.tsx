@@ -1,4 +1,4 @@
-export { Tabs, TabsContext, useActiveTab } from "./Tabs";
+export { Tabs, useActiveTab } from "./Tabs";
 export { TabsList } from "./TabsList";
 export { TabsTab } from "./TabsTab";
 export { TabsPanels } from "./TabsPanels";
